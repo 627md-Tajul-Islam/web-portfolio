@@ -11,7 +11,7 @@ h2 {
     font-size: 40px;
 }
 
-.name-highlight {
+.orange-highlight {
     color: orange;
 }
 
@@ -66,4 +66,8 @@ section {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.name-color {
+    color: rgba(86, 233, 86, 0.89);
 }
